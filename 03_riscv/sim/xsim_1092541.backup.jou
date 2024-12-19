@@ -1,0 +1,32 @@
+#-----------------------------------------------------------
+# xsim v2024.2 (64-bit)
+# SW Build 5239630 on Fri Nov 08 22:34:34 MST 2024
+# IP Build 5239520 on Sun Nov 10 16:12:51 MST 2024
+# SharedData Build 5239561 on Fri Nov 08 14:39:27 MST 2024
+# Start of session at: Tue Dec 17 13:36:44 2024
+# Process ID         : 1092541
+# Current directory  : /home/hidemi/c105/03_riscv/sim
+# Command line       : xsim -source {xsim.dir/work.tb_riscv/xsim_script.tcl}
+# Log file           : /home/hidemi/c105/03_riscv/sim/xsim.log
+# Journal file       : /home/hidemi/c105/03_riscv/sim/xsim.jou
+# Running On         : triton
+# Platform           : Ubuntu
+# Operating System   : Ubuntu 24.04.1 LTS
+# Processor Detail   : 12th Gen Intel(R) Core(TM) i9-12900K
+# CPU Frequency      : 5000.000 MHz
+# CPU Physical cores : 16
+# CPU Logical cores  : 24
+# Host memory        : 134798 MB
+# Swap memory        : 2147 MB
+# Total Virtual      : 136945 MB
+# Available Virtual  : 131092 MB
+#-----------------------------------------------------------
+start_gui
+source xsim.dir/work.tb_riscv/xsim_script.tcl
+create_wave_config; add_wave /; set_property needs_save false [current_wave_config]
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+run 10 us
+close_sim

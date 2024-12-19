@@ -1,4 +1,3 @@
-// sample_gpio
 #include <string.h>
 
 #define GPIO_IN (0x80000000)
@@ -22,7 +21,6 @@ int main()
   while (1)
   {
     reg_write(GPIO_OUT, rslt);
-    reg_read(GPIO_OUT, rslt);
     rslt += 1;
     for (i = 0; i < 10; i++)
       ;

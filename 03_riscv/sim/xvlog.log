@@ -1,0 +1,21 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hidemi/c105/03_riscv/rtl/gpio.sv" into library work
+INFO: [VRFC 10-311] analyzing module gpio
+INFO: [VRFC 10-311] analyzing module aqrv_gpio_ctrl
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hidemi/c105/03_riscv/rtl/lct.sv" into library work
+INFO: [VRFC 10-311] analyzing module lct
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hidemi/c105/03_riscv/rtl/memory.sv" into library work
+INFO: [VRFC 10-311] analyzing module memory
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hidemi/c105/03_riscv/rtl/riscv.sv" into library work
+INFO: [VRFC 10-311] analyzing module riscv
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hidemi/c105/03_riscv/rtl/rv32i.sv" into library work
+INFO: [VRFC 10-311] analyzing module rv32i
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hidemi/c105/03_riscv/rtl/rv32i_alu.sv" into library work
+INFO: [VRFC 10-311] analyzing module rv32i_alu
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hidemi/c105/03_riscv/rtl/rv32i_csr.sv" into library work
+INFO: [VRFC 10-311] analyzing module rv32i_csr
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hidemi/c105/03_riscv/rtl/rv32i_decode.sv" into library work
+INFO: [VRFC 10-311] analyzing module rv32i_decode
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hidemi/c105/03_riscv/rtl/rv32i_reg.sv" into library work
+INFO: [VRFC 10-311] analyzing module rv32i_reg
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "/home/hidemi/c105/03_riscv/rtl/tb_riscv.sv" into library work
+INFO: [VRFC 10-311] analyzing module tb_riscv
